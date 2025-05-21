@@ -9,7 +9,7 @@ Welcome to my digital portfolio. This repository contains artefacts and reflecti
 Click on each section below to view its dedicated README with detailed evidence and STAR reflections:
 
 1. [Career Counselling](./career-counselling.md)
-2. [Skills and Interests](./skills-and-interestsE.md)
+2. [Skills and Interests](./skills-and-interests.md)
 3. [Personality Assessment](./personality-assessment.md)
 4. [Create a CV](./create-cv.md)
 5. [CV Submission](./cv-submission.md)

@@ -33,8 +33,11 @@ In addition to the work readiness training, I have gained a wide range of practi
 - [PRT3 Assignment - Booklify Frontend (Online book store)](https://github.com/ThaakirahWatson/booklify-frontend)
 > This ongoing 2025 project represents the client-side development of Booklify — a web application created to make educational textbooks more accessible and affordable for students. Although the coding phase is still underway, planning and interface design have begun to define the platform’s user experience. The frontend will allow users to easily list, browse, and purchase both new and second-hand textbooks through an intuitive and responsive interface. The focus is on creating a seamless, user-friendly experience that connects directly with the backend’s core functionality.
 
--[PRT3 Assignment - Booklify Backend (Online book store)](https://github.com/Ranelan/bookify-backend)
+- [PRT3 Assignment - Booklify Backend (Online book store)](https://github.com/Ranelan/bookify-backend)
 > This ongoing 2025 project forms the server-side foundation of Booklify — a web-based platform designed to help students buy and sell educational textbooks at more affordable prices. While full development is still in progress, the backend focuses on building a robust system architecture, database management, and secure API endpoints. These components will support key platform features such as user authentication, textbook listings, and payment processing. The backend is being developed collaboratively to ensure scalability, reliability, and efficient data handling.
+
+- [PRM3 Assignment - Minimalist Décor Store (Online Decor Store)-2025](https://github.com/ThaakirahWatson/Minimalist-Decor-Store)
+> This is a clean, modern web app interface designed for a Minimalist Décor Store, created for users interested in purchasing stylish interior décor items. The platform allows customers to browse a curated catalogue, view product details, and complete purchases seamlessly. Admin users can efficiently manage inventory, update product listings, and monitor customer orders. The UI emphasizes simplicity, elegance, and a calming aesthetic that reflects the minimalist brand identity.
 
 ### 📄Figma Projects
 - [PRT2 Web App](https://www.figma.com/design/QK7z7xZp17nMeR458KBHsu/CPUT-Application?node-id=0-1&p=f&t=2OjhC9aZTaGnz5kY-0)

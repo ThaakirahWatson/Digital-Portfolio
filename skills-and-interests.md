@@ -9,6 +9,8 @@ As part of my work readiness training, I completed an in-class online module and
 ### Additional skills
 In addition to the work readiness training, I have gained a wide range of practical skills through my academic coursework. Lectures and hands-on assignments have exposed me to various programming languages, which I have used to develop functional applications and complete several projects. I have also acquired foundational knowledge in UI/UX design, enabling me to create user-friendly interfaces and enhance the overall user experience in my projects. These skills have strengthened both my technical and creative abilities, preparing me for real-world challenges in the ICT industry. Some of these skills include:
 - Java
+- Java Springboot
+- Data Analytics
 - HTML
 - CSS
 - JavaScript
@@ -28,8 +30,11 @@ In addition to the work readiness training, I have gained a wide range of practi
 - [ADP3 MyShop Class Activity 2025](https://github.com/ThaakirahWatson/shop)
 > This class activity involved building parts of a Domain-Driven Design (DDD) structure for a fictional business called *Shiny Sneakers*. The focus was on implementing the Factory and Repository layers to test our understanding of core DDD concepts. This exercise allowed us to apply what we learned in lectures by modeling domain logic and handling data persistence, laying the groundwork for more complex system components in future development.
 
-- [PRT3 Assignment - Booklify (Online book store)](https://github.com/ThaakirahWatson/Booklify)
-> This ongoing project for 2025 is a web-based application called *Booklify*, aimed at helping students buy and sell educational textbooks more affordably. Although development has not yet begun, we have started structuring the system architecture and planning key features. The platform will allow users to list, browse, and purchase both new and second-hand textbooks at discounted prices—providing a cost-effective alternative to traditional book retailers. This project will be developed collaboratively and is intended to address real-world challenges faced by students in accessing academic resources.
+- [PRT3 Assignment - Booklify Frontend (Online book store)](https://github.com/ThaakirahWatson/booklify-frontend)
+> This ongoing 2025 project represents the client-side development of Booklify — a web application created to make educational textbooks more accessible and affordable for students. Although the coding phase is still underway, planning and interface design have begun to define the platform’s user experience. The frontend will allow users to easily list, browse, and purchase both new and second-hand textbooks through an intuitive and responsive interface. The focus is on creating a seamless, user-friendly experience that connects directly with the backend’s core functionality.
+
+-[PRT3 Assignment - Booklify Backend (Online book store)](https://github.com/Ranelan/bookify-backend)
+> This ongoing 2025 project forms the server-side foundation of Booklify — a web-based platform designed to help students buy and sell educational textbooks at more affordable prices. While full development is still in progress, the backend focuses on building a robust system architecture, database management, and secure API endpoints. These components will support key platform features such as user authentication, textbook listings, and payment processing. The backend is being developed collaboratively to ensure scalability, reliability, and efficient data handling.
 
 ### 📄Figma Projects
 - [PRT2 Web App](https://www.figma.com/design/QK7z7xZp17nMeR458KBHsu/CPUT-Application?node-id=0-1&p=f&t=2OjhC9aZTaGnz5kY-0)
@@ -46,6 +51,9 @@ In addition to the work readiness training, I have gained a wide range of practi
 
 - [PRT3 Web App - Booklify](https://www.figma.com/design/jHwKNDTbxy5VJsj1zCo3E7/PRT3?t=Qi3lIffwuZ00L2aI-0)
 > This is a modern e-commerce web app interface designed for students and academic users to buy and sell educational textbooks affordably. Booklify promotes peer-to-peer textbook exchange, making learning materials more accessible. The UI is focused on ease of search, secure transactions, and a clean, bookstore-inspired layout.
+
+- [ADP3 Web App - Mobile Glow Car Wash](https://www.figma.com/design/8P5aX5mzHPRNLekFd1ygyS/MobileGlow-Car-Wash?node-id=0-1&p=f&t=XXGEvQLe8lVQ3UpX-0)
+> This is a modern web app interface designed for Mobile Glow Car Wash, a platform that connects customers with on-demand car wash services that come directly to their location. The system allows customers to book appointments, manage their vehicles, and update their profiles with ease, while employees can manage services, profiles, and payments efficiently. The UI focuses on a clean, service-driven layout with intuitive navigation to enhance both customer convenience and staff management.
 
 ## 💬 Reflection (STAR)
 ⭐ Situation:

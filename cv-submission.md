@@ -2,6 +2,7 @@
 
 ## 📎 Evidence
 [Download My Final CV](./evidence/Thaakirah_Watson_Resume2025.pdf)
+> This updated CV highlights my academic background, technical competencies, and professional experience gained throughout my studies and internship. It showcases my key ICT skills, relevant coursework, and projects, as well as my growing experience in professional environments. The layout is clean and structured to reflect a professional standard, making it suitable for applications within the ICT and technology industries.
 
 ## 💬 Reflection (STAR)
 ⭐ Situation:

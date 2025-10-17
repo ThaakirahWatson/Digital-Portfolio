@@ -13,11 +13,11 @@ Click on each section below to view its dedicated README with detailed evidence 
 3. [Personality Assessment](./personality-assessment.md)
 4. [Create a CV](./create-cv.md)
 5. [CV Submission](./cv-submission.md)
-6. [Business Communication](./cv-submission.md)
-7. [Interview Skills](./cv-submission.md)
-8. [Mock Interview](./cv-submission.md)
-9. [Professional Networking](./cv-submission.md)
-10. [Workplace etiquette](./cv-submission.md)
+6. [Business Communication](./business-communication.md)
+7. [Interview Skills](./interview-skills.md)
+8. [Mock Interview](./mock-interview.md)
+9. [Professional Networking](./professional-networking.md)
+10. [Workplace etiquette](./workplace-etiquette.md)
 
 ---
 

@@ -3,6 +3,7 @@
 ## 📎 Evidence
 [Business Communication Result](./evidence/business-communication.pdf)
 > The Business Communication course assessed my ability to communicate effectively in a professional environment. The results reflect my understanding of written, verbal, and non-verbal communication techniques used in workplaces.
+
 Key outcomes measured included:
 - Writing professional emails, reports, and memos with clarity and accuracy.
 - Demonstrating proper tone, grammar, and structure for business documents.

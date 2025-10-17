@@ -1,7 +1,7 @@
 # ☑️ Business Communication
 
 ## 📎 Evidence
-[Download My Final CV](./CV_230037550.pdf)
+[Business Communication Certificate](./evidence/business-communication.pdf)
 
 ## 💬 Reflection (STAR)
 ⭐ Situation:

@@ -8,7 +8,7 @@ Key outcomes measured included:
 - Demonstrating proper tone, grammar, and structure for business documents.
 - Understanding effective verbal communication and active listening in meetings or presentations.
 - Applying strategies for cross-cultural and digital communication.
-- A strong result in this course shows that I can communicate clearly and professionally in different workplace contexts.
+> A strong result in this course shows that I can communicate clearly and professionally in different workplace contexts.
 
 ## 💬 Reflection (STAR)
 ⭐ Situation:

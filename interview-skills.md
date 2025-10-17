@@ -8,7 +8,7 @@ Key competencies covered include:
 - Demonstrating confidence, clarity, and professionalism in verbal and non-verbal communication.
 - Understanding different interview types (e.g., behavioral, technical, and panel interviews).
 - Preparing relevant examples that reflect skills and achievements.
-- A successful result in this course means I’ve developed practical skills to present myself confidently to potential employers and handle interviews effectively.
+> A successful result in this course means I’ve developed practical skills to present myself confidently to potential employers and handle interviews effectively.
 
 ## 💬 Reflection (STAR)
 

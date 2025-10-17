@@ -2,6 +2,12 @@
 
 ## 📎 Evidence
 [Watch My Mock Interview Recording](./evidence/MockInterviewVid_230037550.mp4)  
+> The Mock Interview assignment evaluated how well I could apply my interview skills in a simulated, real-world scenario. My performance was assessed based on several criteria, including:
+- Confidence and clarity in responses.
+- Ability to structure answers logically and use real experiences to support them.
+- Professional presentation, including attire, posture, and tone.
+- Time management and engagement throughout the interview.
+> A good performance in the mock interview demonstrates that I can perform effectively under interview conditions and am well-prepared for actual job interviews.
 
 ## 💬 Reflection (STAR)
 ### ⭐ Situation:

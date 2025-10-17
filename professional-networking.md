@@ -1,4 +1,4 @@
-# 🧠 Professional Networking
+# 🌐 Professional Networking
 
 ## 📎 Evidence
 - [Professional Networking Result](./evidence/professional-networking.pdf)

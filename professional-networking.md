@@ -3,6 +3,7 @@
 ## 📎 Evidence
 - [Professional Networking Result](./evidence/professional-networking.pdf)
 > The Professional Networking activity focused on building and maintaining connections that can support my professional growth. Results were based on my engagement and understanding of how to use networking tools effectively.
+
 Key components assessed include:
 - Creating and optimizing a professional LinkedIn profile.
 - Expanding connections with peers, instructors, and industry professionals.

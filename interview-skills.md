@@ -3,6 +3,7 @@
 ## 📎 Evidence
 [Interview Skills Results](./evidence/interview-skills.pdf)  
 > The Interview Skills course result represents my ability to prepare for and perform confidently in interviews. The assessment tested both my knowledge of interview techniques and my ability to respond appropriately to typical interview questions.
+
 Key competencies covered include:
 - Structuring answers effectively using the STAR (Situation, Task, Action, Result) method.
 - Demonstrating confidence, clarity, and professionalism in verbal and non-verbal communication.

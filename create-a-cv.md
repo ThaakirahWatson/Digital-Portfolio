@@ -3,11 +3,11 @@
 ## 📎 Evidence
 ### 1. In-Class CV course
 I completed an in-class course focused on creating a professional CV, where I learned how to effectively structure and present my skills, experiences, and qualifications to align with industry expectations in the ICT sector.
-- [CV Draft](./ThaakirahWatson_CV_2024.pdf)
+- [CV Draft](./evidence/ThaakirahWatson_CV_2024.pdf)
 
 ### 2. CV Checklist
 As part of the course, we were provided with a comprehensive checklist to ensure that our CVs included all the essential components—such as personal details, education, skills, work experience, and references—aligned with industry standards and expectations.
-- [CV Checklist](./cv-review.pdf)
+- [CV Checklist](./evidence/cv-review.pdf)
 
 ## 💬 Reflection (STAR)
 ⭐ Situation:

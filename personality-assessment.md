@@ -2,7 +2,7 @@
 
 ## 📎 Evidence
 I completed an in-class course on personality assessment to better understand how my personality traits align with suitable career paths in the ICT industry.
-- [Personality Test Results](./personality-assessment.png)
+- [Personality Test Results](./evidence/personality-assessment.png)
 
 ## 💬 Reflection (STAR)
 ⭐ Situation:

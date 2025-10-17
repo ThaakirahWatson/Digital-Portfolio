@@ -1,7 +1,7 @@
 # ☑️ CV Submission
 
 ## 📎 Evidence
-[Download My Final CV](./CV_230037550.pdf)
+[Download My Final CV](./evidence/Thaakirah_Watson_Resume2025.pdf)
 
 ## 💬 Reflection (STAR)
 ⭐ Situation:

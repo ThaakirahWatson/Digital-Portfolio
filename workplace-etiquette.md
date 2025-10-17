@@ -2,6 +2,15 @@
 
 ## 📎 Evidence
 - [Workplace Etiquette Result](./evidence/workplace-etiquette.pdf)
+> The Workplace Etiquette course assessed my understanding of professional conduct and behavior in a work environment. The results reflect how well I understood and applied the principles of professionalism, communication, and collaboration.
+
+Key areas assessed included:
+- Professional appearance, punctuality, and time management.
+- Communication and teamwork across diverse environments.
+- Respect, confidentiality, and ethical behavior in the workplace.
+- Conflict resolution and adaptability in professional settings.
+
+>I am currently completing a 12-month internship, where I’ve had the opportunity to apply and strengthen these skills in a real work environment. Throughout this experience, I have learned a great deal about maintaining appropriate workplace behavior, professionalism, and how to interact effectively with colleagues and supervisors. This practical exposure has deepened my understanding of what it means to demonstrate proper workplace etiquette daily.
 
 ## 💬 Reflection (STAR)
 

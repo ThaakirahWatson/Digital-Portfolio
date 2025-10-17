@@ -3,14 +3,16 @@
 ## 📎 Evidence
 ### Skills and Interest Course
 As part of my work readiness training, I completed an in-class online module and a LinkedIn Learning course on identifying skills and interests. These activities helped me assess my strengths and align them with suitable career paths in the ICT industry.
-- [Skills and Interests](./skills-and-interests.png)
-- [Certificate of Completion - LinkedIn course](./CertificateOfCompletion_TransitionfromTeachingtoYourNewCareerOpportunity.pdf)
+- [Skills and Interests](./evidence/skills-and-interests.png)
+- [Certificate of Completion - LinkedIn course](./evidence/CertificateOfCompletion_TransitionfromTeachingtoYourNewCareerOpportunity.pdf)
 
 ### Additional skills
 In addition to the work readiness training, I have gained a wide range of practical skills through my academic coursework. Lectures and hands-on assignments have exposed me to various programming languages, which I have used to develop functional applications and complete several projects. I have also acquired foundational knowledge in UI/UX design, enabling me to create user-friendly interfaces and enhance the overall user experience in my projects. These skills have strengthened both my technical and creative abilities, preparing me for real-world challenges in the ICT industry. Some of these skills include:
 - Java
 - Java Springboot
 - Data Analytics
+- React
+- MySQL Workbench
 - HTML
 - CSS
 - JavaScript
@@ -59,14 +61,14 @@ In addition to the work readiness training, I have gained a wide range of practi
 > This is a modern web app interface designed for Mobile Glow Car Wash, a platform that connects customers with on-demand car wash services that come directly to their location. The system allows customers to book appointments, manage their vehicles, and update their profiles with ease, while employees can manage services, profiles, and payments efficiently. The UI focuses on a clean, service-driven layout with intuitive navigation to enhance both customer convenience and staff management.
 
 ## 💬 Reflection (STAR)
-⭐ Situation:
+### ⭐ Situation:
 As I approached the final stages of my academic journey, I realized I was uncertain about which specific career paths in the ICT industry were best suited to my strengths and interests. While I had developed a solid foundation in programming and UI/UX design, I needed clarity on how these skills could be aligned with real-world roles.
 
-🎯 Task:
+### 🎯 Task:
 I needed to identify my core skills, personal interests, and how they could translate into professional opportunities. This required honest self-assessment and exploration of the types of roles that matched my natural abilities and the technical competencies I had gained through coursework and practical projects.
 
-⚙️ Action:
+### ⚙️ Action:
 To achieve this, I completed a structured in-class module and a LinkedIn Learning course focused on skills and career alignment. These activities involved using tools like a skills matrix, interest mapping, and career profiling techniques to gain a better understanding of where I could thrive. I also reflected on the practical skills I acquired through various academic projects—ranging from backend development in PHP and Java to front-end design using Figma—and assessed which tasks I enjoyed and excelled at the most.
 
-✅ Result:
+### ✅ Result:
 Through this process, I discovered that I have a strong affinity for analytical thinking, attention to detail, and system-based problem solving. These insights led me to consider career paths such as Quality Assurance (QA), Systems Analysis, and even Product Design, where my technical knowledge and user-focused mindset can be fully utilized. The reflection exercises gave me a clearer sense of direction and more confidence in pursuing roles that not only suit my abilities but also excite me.

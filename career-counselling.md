@@ -8,7 +8,7 @@ I participated in an online Career Personality Quiz that provided insight into m
 
 ### 2. LinkedIn Learning Course: Career Development
 I completed a LinkedIn Learning course titled "You Need a Career Development Plan", which offered practical guidance on effective career planning and strategies for personal growth.
-- [Certificate of Completion](./CertificateOfCompletion_YouNeedaCareerDevelopmentPlan.pdf)
+- [Certificate of Completion](./evidence/CertificateOfCompletion_YouNeedaCareerDevelopmentPlan.pdf)
 > This certificate verifies the successful completion of my career development training, demonstrating my commitment to planning and advancing my professional journey.
 ---
 

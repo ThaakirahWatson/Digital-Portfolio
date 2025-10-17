@@ -1,7 +1,7 @@
 # ☑️ Business Communication
 
 ## 📎 Evidence
-[Business Communication Certificate](./evidence/business-communication.pdf)
+[Business Communication Result](./evidence/business-communication.pdf)
 
 ## 💬 Reflection (STAR)
 ⭐ Situation:

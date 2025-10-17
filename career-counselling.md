@@ -3,7 +3,7 @@
 ## 📎 Evidence
 ### 1. Career Quiz
 I participated in an online Career Personality Quiz that provided insight into my strengths, interests, and the IT career paths best suited to my profile.
-- [Personality Quiz Result](./personality-quiz.png)  
+- [Personality Quiz Result](./evidence/personality-quiz.png)  
 > This image shows the career suggestions generated from my SkillPointe personality assessment.
 
 ### 2. LinkedIn Learning Course: Career Development
